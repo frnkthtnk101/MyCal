@@ -1,0 +1,10 @@
+.otherMonths{
+    color: gray;
+}
+.currentMonths{
+    color:black;
+}
+#content{
+    max-width: 100px;
+    margin: auto;
+}
